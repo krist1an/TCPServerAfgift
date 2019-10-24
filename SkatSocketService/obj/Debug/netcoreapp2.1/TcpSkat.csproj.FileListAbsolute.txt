@@ -1,0 +1,14 @@
+E:\Projects\Mock 1 - Kristian Hornbøll 1981\SkatSocketService\SkatSocketService\bin\Debug\netcoreapp2.1\TcpSkat.deps.json
+E:\Projects\Mock 1 - Kristian Hornbøll 1981\SkatSocketService\SkatSocketService\bin\Debug\netcoreapp2.1\TcpSkat.runtimeconfig.json
+E:\Projects\Mock 1 - Kristian Hornbøll 1981\SkatSocketService\SkatSocketService\bin\Debug\netcoreapp2.1\TcpSkat.runtimeconfig.dev.json
+E:\Projects\Mock 1 - Kristian Hornbøll 1981\SkatSocketService\SkatSocketService\bin\Debug\netcoreapp2.1\TcpSkat.dll
+E:\Projects\Mock 1 - Kristian Hornbøll 1981\SkatSocketService\SkatSocketService\bin\Debug\netcoreapp2.1\TcpSkat.pdb
+E:\Projects\Mock 1 - Kristian Hornbøll 1981\SkatSocketService\SkatSocketService\bin\Debug\netcoreapp2.1\RegistreringsAfgift.dll
+E:\Projects\Mock 1 - Kristian Hornbøll 1981\SkatSocketService\SkatSocketService\bin\Debug\netcoreapp2.1\RegistreringsAfgift.pdb
+E:\Projects\Mock 1 - Kristian Hornbøll 1981\SkatSocketService\SkatSocketService\obj\Debug\netcoreapp2.1\TcpSkat.csprojAssemblyReference.cache
+E:\Projects\Mock 1 - Kristian Hornbøll 1981\SkatSocketService\SkatSocketService\obj\Debug\netcoreapp2.1\TcpSkat.csproj.CoreCompileInputs.cache
+E:\Projects\Mock 1 - Kristian Hornbøll 1981\SkatSocketService\SkatSocketService\obj\Debug\netcoreapp2.1\TcpSkat.AssemblyInfoInputs.cache
+E:\Projects\Mock 1 - Kristian Hornbøll 1981\SkatSocketService\SkatSocketService\obj\Debug\netcoreapp2.1\TcpSkat.AssemblyInfo.cs
+E:\Projects\Mock 1 - Kristian Hornbøll 1981\SkatSocketService\SkatSocketService\obj\Debug\netcoreapp2.1\TcpSkat.csproj.CopyComplete
+E:\Projects\Mock 1 - Kristian Hornbøll 1981\SkatSocketService\SkatSocketService\obj\Debug\netcoreapp2.1\TcpSkat.dll
+E:\Projects\Mock 1 - Kristian Hornbøll 1981\SkatSocketService\SkatSocketService\obj\Debug\netcoreapp2.1\TcpSkat.pdb
